@@ -185,7 +185,7 @@ This is the Simulation of Verilog Code in Makerchip IDE when the user gives valu
   Fig.8.7: 
 </p>
 
-### oscillator (or) Astable multivibrator Circuit Details:
+### Oscillator (or) Astable multivibrator Circuit Details:
 
 
 </p>
@@ -206,48 +206,19 @@ When Q2 is turned on, a current flows through its collector, dropping the collec
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90523478/157055091-f44bfe1d-0c5e-4217-80fd-c251b0cd15ab.png"></br>
-  Fig.11: Resistor Voltage Divider circuit
+  Fig.11: Frequency Divider circuit
 </p>
 
-##### Comparator:
-
-As for 3-bit flash ADC, a Total of 8 comparators are connected with each other using the same concept of comparator as mentioned above in a single comparator circuit.
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156939883-0c6dee17-c153-4d3a-8bf8-6d26d1be4892.jpg"></br>
-  Fig.12: Analog Block circuit
-</p>
-
-#### Digital Block:
-##### Priority Encoder:
-The working of priority encoder block is explained above
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156939897-f820d72a-17f5-41dd-8d69-3815874efd2b.jpg"></br>
-  Fig.13: Digital Block circuit
-</p>
-
-#### Mixed Signal:
-This is the Mixed Signal Circuit of 3 bit Flash Analog-to-Digital Converter which consist of combination of 2 blocks one is Analog Block And other is Digital Block that is
-Analog Block +Digital Block =Mixed signal circuit
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156939856-df6aad49-93ce-4303-8432-f4ea84bdf8de.jpg"></br>
-  Fig.14: Mixed Signal circuit
-</p>
 
 ## Simulations:
-### Priority encoder Waveform:
+### Astable multivibrator Waveform:
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90523478/156940261-f4438a17-bed3-48a0-8c82-1a7253084a8d.jpg"></br>
   Fig.15:  8x3 Priority encoder Waveform
 </p>
 
-### Comparator Waveform:
+### Frequency divider Waveform:
 
 </p>
 <p align="center">
@@ -261,37 +232,7 @@ Analog Block +Digital Block =Mixed signal circuit
   Fig.16.2: comparator waveform(2)
 </p>
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156942674-3a8115e7-1e29-4190-a0dd-a50d8a3d2ff8.jpg"></br>
-  Fig.16.3: comparator waveform(3)
-</p>
 
-### 3-bit_Flash_ADC Waveform:
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156941802-06fe270d-2014-45a2-a2ff-b7e37d484d34.jpg"></br>
-  Fig.17.1: 3_bit_flash_adc_waveform_1
-</p>
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156941822-f006ae9b-c090-4442-930d-5f940b8a78b0.jpg"></br>
-  Fig.17.2: 3_bit_flash_adc_waveform_2
-</p>
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/157059062-c6e57483-dce2-4269-b3c7-975af8a5c4be.png"></br>
-  Fig.17.3: 3_bit_flash_adc_waveform_3
-</p>
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/157059424-d54d4449-13a7-49df-9115-16a4e78fb4e8.png"></br>
-  Fig.17.4: 3_bit_flash_adc_waveform_4
-</p>
 
 # Netlist of the Circuit:
 
@@ -302,13 +243,13 @@ Analog Block +Digital Block =Mixed signal circuit
 [3]. Refer to the netlist of the circuit here: <a href='Netlist_3-bit_Flash_ADC'>Netlist_3-bit_Flash_ADC</a>
 
 # References:
-[1]. https://research.ijcaonline.org/volume61/number11/pxc3884802.pdf 
+[1]. •	https://github.com/PatelVatsalB21/Mixed_Signal_Frequency_Divider 
 
-[2]. https://www.researchgate.net/publication/329326679_A_3-Bit_10-MSps_Low_Power_CMOS_Flash_ADC 
+[2]. http://faraday1.ucd.ie/archive/papers/freqdiv.pdf#:~:text=Frequency%20Divider%20Federico%20Milano%2C%20Fellow%2C%20IEEE%2C%20Alvaro%20Ortega%2C%C2%B4,frequency%20at%20the%20buses%20of%20a%20transmission%20system.
 
-[3]. https://www.researchgate.net/publication/318286256_Design_Implementation_of_3-Bit_High_Speed_Flash_ADC_for_Wireless_LAN_Applications
+[3]. https://www.indiabix.com/electronics-circuits/astable-multivibrator-oscillator/
 
-[4]. https://microcontrollerslab.com/flash-adc-working-3-bit-example-advantages-applications/
+[4]. •	https://www.bing.com/search?q=frequency+divider+using+cmos&qs=n&form=QBRE&sp=-1&pq=frequency+divider+using+cmos&sc=9-28&sk=&cvid=C83C9014852142D7AF7944D39E98E2A9&ghsh=0&ghacc=0&ghpl=
 
 # Acknowledgements:
 
@@ -319,4 +260,4 @@ Analog Block +Digital Block =Mixed signal circuit
 - [SUMANTO KAR](https://github.com/Eyantra698Sumanto)
 
 # Author:
-• Vanshika Tanwar, B.Tech(ECE), Dronacharya Group of Institutions, Greater Nodia, Uttar Pradesh.
+• Gaurav Kumar, B.Tech(ECE), Dronacharya Group of Institutions, Greater Nodia, Uttar Pradesh.
