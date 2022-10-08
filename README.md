@@ -215,8 +215,14 @@ When Q2 is turned on, a current flows through its collector, dropping the collec
 ### Astable multivibrator Waveform:
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156940261-f4438a17-bed3-48a0-8c82-1a7253084a8d.jpg"></br>
-  Fig.15:  8x3 Priority encoder Waveform
+  <img src="https://user-images.githubusercontent.com/106176740/194724518-c95aa2f6-7705-4154-b28c-fe941c3a6ab7.jpg"></br>
+  Fig.15.1:  Astable multivibrator Waveform
+</p>
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/106176740/194724531-0e34b810-a17e-4918-9b0c-e9ff548b63cd.jpg"></br>
+  Fig.15.2:  Astable multivibrator Waveform
 </p>
 
 ### Frequency divider Waveform:
