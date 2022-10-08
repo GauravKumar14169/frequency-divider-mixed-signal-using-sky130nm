@@ -22,6 +22,8 @@ This repository presents the design of frequency divider implemented using sky13
 	- [Astable multivibrator Waveform](#Astable-multivibrator-Waveform)
 	- [Frequency divider Waveform](#Frequency-divider-Waveform)
 - [Netlist of the Circuit](#Netlist-of-the-Circuit)
+	- [Steps to run generate NgVeri Model](#steps-to-run-generate-ngveri-model)
+	- [Steps to run this project](#steps-to-run-this-project)
 - [References](#references)
 - [Acknowledgement](#acknowledgement)
 - [Author](#author)
