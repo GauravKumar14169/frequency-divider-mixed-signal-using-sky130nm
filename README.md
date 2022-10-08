@@ -18,7 +18,6 @@ This repository presents the design of frequency divider implemented using sky13
 	- [Verilog](#Verilog)
 	- [Oscillator (or) Astable multivibrator Circuit Details](Oscillator-(or)-Astable-multivibrator-Circuit-Details)
 	- [Frequency divider Schematicl](#Frequency-divider-Schematic)
-	- [Comparator Schematic](#Comparator-Schematic)
 - [Simulations](#Simulations)
 	- [Astable multivibrator Waveform](#Astable-multivibrator-Waveform)
 	- [Frequency divider Waveform](#Frequency-divider-Waveform)
