@@ -202,10 +202,11 @@ An oscillator, or astable multivibrator, is the device in question. The circuit 
 
 When Q2 is turned on, a current flows through its collector, dropping the collector voltage (the amount of charge on C1) as the collector current into Q1 charges C1.
 
+![ci](https://user-images.githubusercontent.com/106176740/194724215-559081a4-017a-4dc8-9860-150cedc7f297.jpg)
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/157055091-f44bfe1d-0c5e-4217-80fd-c251b0cd15ab.png"></br>
+  <img src="https://user-images.githubusercontent.com/106176740/194724215-559081a4-017a-4dc8-9860-150cedc7f297.jpg"></br>
   Fig.11: Frequency Divider circuit
 </p>
 
@@ -222,17 +223,21 @@ When Q2 is turned on, a current flows through its collector, dropping the collec
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156942327-c64a4311-7682-4e3d-90f5-5bde96852162.jpg"></br>
-  Fig.16.1:  comparator waveform(1) 
+  <img src="https://user-images.githubusercontent.com/106176740/194724314-2a983f81-e4fd-40a9-bad9-3d600cafb712.jpeg"></br>
+  Fig.16.1:  waveform(1) 
 </p>
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156942366-20883786-2e53-4563-9726-5dc3e7677f62.jpg"></br>
-  Fig.16.2: comparator waveform(2)
+  <img src="https://user-images.githubusercontent.com/106176740/194724297-0b16ab59-207e-457c-a373-43dd63182527.jpeg"></br>
+  Fig.16.2:  waveform(2)
 </p>
 
-
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/106176740/194724271-daff7de1-9de5-43cf-a5cb-365d8161a263.jpg"></br>
+  Fig.16.3: Frequency divider waveform(3)
+</p>
 
 # Netlist of the Circuit:
 
