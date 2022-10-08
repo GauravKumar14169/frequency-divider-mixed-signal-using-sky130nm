@@ -185,16 +185,12 @@ This is the Simulation of Verilog Code in Makerchip IDE when the user gives valu
   Fig.8.7: 
 </p>
 
-### Priority Encoder Schematic:
+### Circuit Details:
 
-An encoder is a combinational digital circuit which performs the inverse operation of a decoder. An Encoder circuit consists of 2^n input lines and gives n output lines. So, a
-priority encoder is the encoder circuit that includes the priority function.
-The priority encoder performs its operation as if two or more inputs are equal to one(1) or high at the same time, then the input which has the highest priority will take
-precedence. We decide priority according to weight or the input that has the highest priority will take precedence. For example, if there are 4 inputs E3, E2, E1, E0 has the
-value 1010 then see this that at the E3 position and E1 position has the 1 at the same time then E3 has the highest priority because it has the highest weight according to the
-base 8421.
+An oscillator, or astable multivibrator, is the device in question. The circuit alternates between two states as a result of the cross-coupling of the two transistors. A base current can flow when Q's base is around one diode drop above ground in one state. This maintains Q in saturation mode and keeps it turned on, allowing current to flow through the collector, maintaining a low collector voltage, and discharging C1. Because Q's base voltage is insufficient to turn it on, it is turned off.
 
-In this mixed-signal circuit, we have used an 8x3 priority encoder which contains 8 input lines and produces 3 output lines.
+When Q2 is turned on, a current flows through its collector, dropping the collector voltage (the amount of charge on C1) as the collector current into Q1 charges C1.
+
 
 </p>
 <p align="center">
