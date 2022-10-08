@@ -190,7 +190,7 @@ This is the Simulation of Verilog Code in Makerchip IDE when the user gives valu
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/157047244-aeea0b25-455c-4203-a47d-f16b92225e69.jpg"></br>
+  <img src="https://user-images.githubusercontent.com/106176740/194724581-9ac6b208-57e2-4759-9d09-7bbade0031de.jpg"></br>
   Fig.9: Astable multivibrator circuit
 </p>
 
