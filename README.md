@@ -139,7 +139,7 @@ Verilog code in Makerchip IDE
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917375-83f425a3-2809-42f8-a685-073cdd42e31e.png"></br>
+  <img src="https://user-images.githubusercontent.com/106176740/194725029-4dca8260-2c35-4f5a-bd57-bb6b19f9ecdb.jpg"></br>
   Fig.8.1: 
 </p>
 
@@ -147,43 +147,17 @@ Simulation of Verilog Code in Makerchip IDE
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917433-9a8fdd4c-b0ae-4243-bf12-274261e65602.png"></br>
+  <img src="https://user-images.githubusercontent.com/106176740/194725172-63aad539-4e40-4518-abb1-b446a44c53c9.jpg"></br>
   Fig.8.2: 
 </p>
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917453-e5e917a5-c0ac-4882-b2a0-90c2393965e8.png"></br>
+  <img src="https://user-images.githubusercontent.com/106176740/194725448-685243f5-5c77-4442-bf52-164b83be114b.jpg"></br>
   Fig.8.3:
 </p>
 
-Simulation of Verilog Code in Makerchip IDE when it takes any random value by it's own
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917473-351bda5c-756f-4f27-9ae7-7035925245f6.png"></br>
-  Fig.8.4: 
-</p>
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917515-69137660-99e0-4f69-8321-3db7c4171b25.png"></br>
-  Fig.8.5: 
-</p>
-
-This is the Simulation of Verilog Code in Makerchip IDE when the user gives value according to the requirement .
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917565-17e49081-a948-46a2-9d89-90c9d2d795b6.png"></br>
-  Fig.8.6: 
-</p>
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917575-4e6c9761-b232-4582-965b-6b00b31b22cf.png"></br>
-  Fig.8.7: 
-</p>
 
 ### Oscillator (or) Astable multivibrator Circuit Details:
 
