@@ -1,4 +1,4 @@
-# frequency-divider-mixed-signal-using-sky130nm
+# Frequency-divider-mixed-signal-using-sky130nm
 
 This repository presents the design of frequency divider implemented using sky130nm eSim open source EDA tool.
 
@@ -46,7 +46,7 @@ A free-running multivibrator is another name for the astable multivibrator. It p
 A binary divider with an inverted output terminal that is connected back to the data terminal in a feedback loop is known as a Divide-By-4 counter. It is made up of two D flip flops. It is an asynchronous counter where each subsequent flip-flop is clocked by the output of the flip-flop before it, with the initial flip-flop being clocked by the external clock pulse. It takes some time at each stage as the signal moves in a ripple pattern, resulting in the lower frequency at the output.
  
  
-# 3-bit_Flash_ADC:
+# Frequency divider:
 
 We create a straightforward yet powerful general analytical formula to calculate the frequency deviations across the entire network. The theoretical foundation and reasoning for the suggested formula.
 
@@ -65,7 +65,7 @@ Synchronous machine rotor speeds fluctuate during a transient that is brought on
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/106176740/194714728-6dea4534-1697-4b6d-9e21-a2f08eeb59c0.png"></br>
-   fig.5: 3-bit_Flash_ADC REFERENCE WAVEFORM 
+   fig.5: Frequency divider REFERENCE WAVEFORM 
 </p>
 
 
