@@ -260,11 +260,11 @@ When Q2 is turned on, a current flows through its collector, dropping the collec
 ## Steps to run this project
 1. Open a new terminal
 2. Clone this project using the following command:</br>
-```git clone https://github.com/Eyantra698Sumanto/XOR-XNOR-Gate.git ```</br>
+```https://github.com/GauravKumar14169/frequency-divider-mixed-signal-using-sky130nm.git ```</br>
 3. Change directory:</br>
-```cd eSim_project_files/xor_xnor```</br>
+```cd eSim_/omkar/divder```</br>
 4. Run ngspice:</br>
-```ngspice xor_xnor.cir.out```</br>
+```ngspice divder.cir.out```</br>
 5. To run the project in eSim:
 
   - Run eSim</br>
