@@ -223,14 +223,15 @@ When Q2 is turned on, a current flows through its collector, dropping the collec
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/106176740/194724314-2a983f81-e4fd-40a9-bad9-3d600cafb712.jpeg"></br>
-  Fig.16.1:  waveform(1) 
+  <img src="https://user-images.githubusercontent.com/106176740/194724297-0b16ab59-207e-457c-a373-43dd63182527.jpeg"></br>
+  Fig.16.2:  waveform(1)
 </p>
+
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/106176740/194724297-0b16ab59-207e-457c-a373-43dd63182527.jpeg"></br>
-  Fig.16.2:  waveform(2)
+  <img src="https://user-images.githubusercontent.com/106176740/194724314-2a983f81-e4fd-40a9-bad9-3d600cafb712.jpeg"></br>
+  Fig.16.1:  waveform(2) 
 </p>
 
 </p>
