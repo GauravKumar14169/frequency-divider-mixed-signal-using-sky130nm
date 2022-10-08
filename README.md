@@ -185,48 +185,23 @@ This is the Simulation of Verilog Code in Makerchip IDE when the user gives valu
   Fig.8.7: 
 </p>
 
-### Circuit Details:
-
-An oscillator, or astable multivibrator, is the device in question. The circuit alternates between two states as a result of the cross-coupling of the two transistors. A base current can flow when Q's base is around one diode drop above ground in one state. This maintains Q in saturation mode and keeps it turned on, allowing current to flow through the collector, maintaining a low collector voltage, and discharging C1. Because Q's base voltage is insufficient to turn it on, it is turned off.
-
-When Q2 is turned on, a current flows through its collector, dropping the collector voltage (the amount of charge on C1) as the collector current into Q1 charges C1.
+### oscillator (or) Astable multivibrator Circuit Details:
 
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90523478/157047244-aeea0b25-455c-4203-a47d-f16b92225e69.jpg"></br>
-  Fig.9: 8x3 Priority encoder circuit
+  Fig.9: Astable multivibrator circuit
 </p>
 
-### Comparator Schematic:
- 
- The comparator which is used in this mixed-signal circuit is the Non-Inverting comparator. We used opamp as a comparator. The comparator is used to compare the input signal
- with respect to the reference voltage.
- 
-As here we have used here the non-inverting comparator so, the input signal that is sine signal is applied at the positive terminal or non-inverting terminal of the opamp while
-the reference voltage is applied at the negative terminal or inverting terminal of the opamp. And for offset null, a resistor of 1k has been connected between pin 1 and 5 of the
-opamp. 
 
-If V(non-inv)> V(ref) ----> Vout=1
 
-If V(non-inv)<V(ref) ----->Vout=0
- 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156943275-70b22acc-24b5-4b09-9568-c3ef99240fdf.jpg"></br>
-  Fig.10: Comparator Circuit using OPAMP
-</p>
+### Frequency divider Schematic:
 
-### 3-bit_Flash_ADC Schematic:
+An oscillator, or astable multivibrator, is the device in question. The circuit alternates between two states as a result of the cross-coupling of the two transistors. A base current can flow when Q's base is around one diode drop above ground in one state. This maintains Q in saturation mode and keeps it turned on, allowing current to flow through the collector, maintaining a low collector voltage, and discharging C1. Because Q's base voltage is insufficient to turn it on, it is turned off.
 
-#### Analog Block:
-##### Resistor Voltage Divider Network:
+When Q2 is turned on, a current flows through its collector, dropping the collector voltage (the amount of charge on C1) as the collector current into Q1 charges C1.
 
-A resistor voltage divider circuit is used in which there is a total of 8 resistors each of 1k are connected in series with other. And voltage divider rule is used for the
-distribution of input voltage among all resistors. 
-For example:- Suppose if 2 resistors are connected in series that is R1 and R2 and the input voltage is Vin, according to the voltage divider rule the Vout will be equal to 
-
-Vout=R2 x Vin/(R1+R2)
 
 </p>
 <p align="center">
