@@ -65,7 +65,7 @@ A flash ADC is the Analog to Digital Converter and it is also known as the faste
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/106176740/194713435-36ba7aaa-817c-4c14-bb7a-2caff1d678ee.png"></br>
-   fig.3: Comparator 
+   fig.3: Frequency divider 
 </p>
 
 Each comparator comprises a reference voltage that is 1 LSB higher than that of the one given below it in the chain. The
