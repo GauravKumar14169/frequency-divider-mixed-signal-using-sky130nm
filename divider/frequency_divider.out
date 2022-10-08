@@ -1,0 +1,1587 @@
+optran: no such command available in ngspice
+
+Compatibility modes selected: hs a
+
+Warning: m=xx on .subckt line will override multiplier m hierarchy!
+
+Warning: redefinition of .subckt sky130_fd_pr__res_generic_po, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_generic_nd, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_generic_pd, ignored
+Warning: redefinition of .subckt sky130_fd_pr__pnp_05v5_w0p68l0p68, ignored
+Warning: redefinition of .subckt sky130_fd_pr__model__parasitic__res_po, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_high_po, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po_0p35, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po_0p69, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po_1p41, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po_2p85, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po_5p73, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_xhigh_po__base, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_high_po_0p35, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_high_po_0p69, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_high_po_1p41, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_high_po_2p85, ignored
+Warning: redefinition of .subckt sky130_fd_pr__res_high_po_5p73, ignored
+
+Circuit: * /home/gk778007/esim-workspace/frequency_divider/frequency_divider.cir
+
+option SCALE: Scale is set to 1e-06 for instance and model parameters
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: include: has no value, DC 0 assumed
+=============gaurav_kumar : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+
+No. of Data Rows : 570
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+binary raw file "/home/gk778007/eSim-Workspace/frequency_divider/frequency_divider.raw"
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: include: has no value, DC 0 assumed
+No. of Data Columns : 49  
+=============gaurav_kumar : New Iteration===========
+Instance : 2
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 2
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=1
+out_clk=1
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=1
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=0
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=1
+out_clk=0
+=============gaurav_kumar : New Iteration===========
+Instance : 3
+
+Inside foo before eval.....
+clk=1
+out_clk=0
+
+Inside foo after eval.....
+clk=0
+out_clk=0
+
+No. of Data Rows : 545
+
+Total analysis time (seconds) = 0.812595
+
+Total CPU time (seconds) = 11.299 
+
+Total DRAM available = 257855.305 MB.
+DRAM currently available = 223210.012 MB.
+Maximum ngspice program size =  393.793 MB.
+Current ngspice program size =  331.195 MB.
+
+Shared ngspice pages =    9.410 MB.
+Text (code) pages =    6.285 MB.
+Stack = 0 bytes.
+Library pages =  322.438 MB.
+

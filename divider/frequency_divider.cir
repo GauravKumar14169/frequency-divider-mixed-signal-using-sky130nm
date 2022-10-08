@@ -1,0 +1,23 @@
+* /home/gk778007/eSim-Workspace/frequency_divider/frequency_divider.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: Sat 08 Oct 2022 11:51:42 PM IST
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+U9  ? ? gaurav_kumar	
+X1  Net-_X1-Pad1_ output0 output1 output2 3stcmringosci13		
+v1  Net-_X1-Pad1_ GND DC		
+U2  output2 plot_v1		
+X2  output0 Net-_X1-Pad1_ clk smttrigger21		
+U1  output0 plot_v1		
+U3  output1 plot_v1		
+U5  clk plot_v1		
+scmode1  SKY130mode		
+U6  clk Net-_U4-Pad1_ adc_bridge_1		
+U7  Net-_U4-Pad2_ clk_output dac_bridge_1		
+U8  clk_output plot_v1		
+U4  Net-_U4-Pad1_ Net-_U4-Pad2_ gaurav_kumar		
+
+.end
