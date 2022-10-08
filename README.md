@@ -239,6 +239,29 @@ When Q2 is turned on, a current flows through its collector, dropping the collec
 
 [3]. Refer to the netlist of the circuit here: <a href='Netlist_3-bit_Flash_ADC'>Netlist_3-bit_Flash_ADC</a>
 
+## Steps to run generate NgVeri Model
+1. Open eSim
+2. Run NgVeri-Makerchip 
+3. Add top level verilog file in Makerchip Tab
+4. Click on NgVeri tab
+5. Add dependency files
+6. Click on Run Verilog to NgSpice Converter
+7. Debug if any errors
+8. Model created successfully
+## Steps to run this project
+1. Open a new terminal
+2. Clone this project using the following command:</br>
+```git clone https://github.com/Eyantra698Sumanto/XOR-XNOR-Gate.git ```</br>
+3. Change directory:</br>
+```cd eSim_project_files/xor_xnor```</br>
+4. Run ngspice:</br>
+```ngspice xor_xnor.cir.out```</br>
+5. To run the project in eSim:
+
+  - Run eSim</br>
+  - Load the project</br>
+  - Open eeSchema</br>
+
 # References:
 [1]. •	https://github.com/PatelVatsalB21/Mixed_Signal_Frequency_Divider 
 
