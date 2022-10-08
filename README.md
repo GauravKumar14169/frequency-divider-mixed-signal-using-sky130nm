@@ -45,21 +45,14 @@ A free-running multivibrator is another name for the astable multivibrator. It p
 # MOD-4 Counter
 A binary divider with an inverted output terminal that is connected back to the data terminal in a feedback loop is known as a Divide-By-4 counter. It is made up of two D flip flops. It is an asynchronous counter where each subsequent flip-flop is clocked by the output of the flip-flop before it, with the initial flip-flop being clocked by the external clock pulse. It takes some time at each stage as the signal moves in a ripple pattern, resulting in the lower frequency at the output.
  
+ 
+# 3-bit_Flash_ADC:
 
+We create a straightforward yet powerful general analytical formula to calculate the frequency deviations across the entire network. The theoretical foundation and reasoning for the suggested formula.
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156916897-b209a483-e1c0-4646-a8fe-438960277541.png"></br>
-   fig.1: Priority Encoder(8x3) 
-</p>
+## Rationale:
+Synchronous machine rotor speeds fluctuate during a transient that is brought on by a significant disturbance, such as the occurrence of a fault and its clearance. It is generally known that each machine exhibits local non-dominant modes as well as interarea oscillation modes shared by its coherent group during a transient. The crucial argument is that because machine frequencies are not equal throughout the transient, the frequency cannot be the same throughout the system. However, only the frequencies - effectively, the rotor speeds of the internal electromotive forces (emfs) of synchronous machines can be estimated by using the temporal integration of the power system model due to the usual approximations of the standard transient stability model.
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/157048177-26eb5f98-26c8-4312-a92e-a4ba75f7444d.png"></br>
-   fig.2: (8x3) Priority Encoder Truth Table
-</p>
-
-A flash ADC is the Analog to Digital Converter and it is also known as the fastest of all types of ADC but at the same time, it requires complex circuitry. It is thus often used for high-speed applications and this circuit is also known as Parallel comparator type ADC. It consists of Comparators, the ladder of a resistor network and the priority encoder. The General Flash ADC takes 2^N-1 Comparators for “N” no. of bits in which there are 2^N resistors are required and (2^N xN) Priority Encoder are required which increases its power consumption as no. of bits are increasing respectively. Each comparator comprises a reference voltage that is 1 LSB higher than that of the one given below it in the chain. The comparator is sometimes called a thermometer code because for a given input, all the comparators below a particular point will have their input voltage higher than their reference voltage and hence there, is “1” Logic output comes and vice-versa. Therefore, it behaves as analogous to a mercury thermometer. It is used in satellite communication, radar processing, etc.
 
 </p>
 
@@ -68,48 +61,7 @@ A flash ADC is the Analog to Digital Converter and it is also known as the faste
    fig.3: Frequency divider 
 </p>
 
-Each comparator comprises a reference voltage that is 1 LSB higher than that of the one given below it in the chain. The
-comparator is sometimes called a thermometer code because for a given input, all the comparators below a particular point will have their input voltage higher than their reference
-voltage and hence there, is “1” Logic output comes and vice-versa. Therefore, it behaves as analogous to a mercury thermometer. It is used in satellite communication, radar
-processing, etc.
 
-# 3-bit_Flash_ADC:
-
-We are going to design a 3 Bit Flash Analog to Digital Converter. As we are taking 3 bit it means that 7 comparators and 8 resistors are required also, the
-Priority Encoder which is used for 3-bit Flash ADC is 8 X 3. All the resistors are connected in series with an input voltage to scale down its voltage as voltages are
-distributed among each resistor accordingly by using the voltage divider rule. This resistor network gives voltage reference to the input of comparators respectively .when two
-resistors are connected in series,
-
-
-                                        →Vout=R2xVin/(R1+R2)
-
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156239808-f3ac8304-9bab-47c9-b006-ba6aec04f277.jpg"></br>
-   fig.4: 3-bit_Flash_ADC REFERENCE CIRCUIT 
-</p>
-
-
-
-Here, the comparators used is analog in nature which is made up of opamp and is used to either compare two analog voltages or input voltage with reference voltage (say Vref).
-The analog input which is need to be converted is connected to the non-inverting terminal (positive end) of the comparator and voltage reference is connected to the inverting
-terminal(negative end) of the comparator.
-
-If                                          
-
-                                           V+>V-, Vout=1
-                                                                              
-                                               and
-If                                          
-
-                                           V+<V-, Vout=0
-
-
-Now, all the outputs of the comparator becomes inputs of the encoder it means that the input of the priority encoder depends on the output of comparator and the Encoder gives
-the digital output of input when two or more than two inputs are high at the same time, it produces the binary code of the input which has Highest Priority. For example suppose
-3 input lines of the encoder are high at the same time , then priority will be given to the third input and hence the corresponding binary code output will be generated. So,
-this is how a 3 bit Flash ADC works
 
 ## REFERENCE WAVEFORM
 </p>
