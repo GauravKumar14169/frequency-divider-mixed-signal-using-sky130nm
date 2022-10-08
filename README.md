@@ -205,7 +205,7 @@ When Q2 is turned on, a current flows through its collector, dropping the collec
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/106176740/194724215-559081a4-017a-4dc8-9860-150cedc7f297.jpg"></br>
+  <img src="https://user-images.githubusercontent.com/106176740/194724694-4a16fa4e-1b2b-4459-8548-ddb38f107d11.jpg"></br>
   Fig.11: Frequency Divider circuit
 </p>
 
