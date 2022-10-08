@@ -61,12 +61,10 @@ Synchronous machine rotor speeds fluctuate during a transient that is brought on
    fig.3: Frequency divider 
 </p>
 
-
-
 ## REFERENCE WAVEFORM
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156240611-b70a3973-1b8c-40ff-a960-e4428380ad88.jpg"></br>
+  <img src="https://user-images.githubusercontent.com/106176740/194714728-6dea4534-1697-4b6d-9e21-a2f08eeb59c0.png"></br>
    fig.5: 3-bit_Flash_ADC REFERENCE WAVEFORM 
 </p>
 
