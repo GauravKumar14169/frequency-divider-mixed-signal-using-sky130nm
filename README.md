@@ -202,7 +202,6 @@ An oscillator, or astable multivibrator, is the device in question. The circuit 
 
 When Q2 is turned on, a current flows through its collector, dropping the collector voltage (the amount of charge on C1) as the collector current into Q1 charges C1.
 
-![ci](https://user-images.githubusercontent.com/106176740/194724215-559081a4-017a-4dc8-9860-150cedc7f297.jpg)
 
 </p>
 <p align="center">
@@ -246,13 +245,8 @@ When Q2 is turned on, a current flows through its collector, dropping the collec
   Fig.16.3: Frequency divider waveform(3)
 </p>
 
-# Netlist of the Circuit:
 
-[1]. Refer to the netlist of the circuit here: <a href='Netlist_of_comparator'>Netlist_of_comparator</a>
-
-[2]. Refer to the netlist of the circuit here: <a href='Netlist _of _8x3 _Priority_encoder'>Netlist _of _8x3 _Priority_encoder</a>
-
-[3]. Refer to the netlist of the circuit here: <a href='Netlist_3-bit_Flash_ADC'>Netlist_3-bit_Flash_ADC</a>
+# Netlist Netlist of the Circuit
 
 ## Steps to run generate NgVeri Model
 1. Open eSim
